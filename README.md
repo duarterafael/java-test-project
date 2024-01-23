@@ -66,7 +66,7 @@ Escreva um programa para encontrar o hotel mais barato. A entrada do programa se
 **Entrada 1:**
 Regular: 16Mar2020(mon), 17Mar2020(tues), 18Mar2020(wed)
 # **Saída 1:**
-Parque das flores
+Palm Plaza Resor
 
 # **Entrada 2:**
 Regular: 20Mar2020(fri), 21Mar2020(sat), 22Mar2020(sun)
